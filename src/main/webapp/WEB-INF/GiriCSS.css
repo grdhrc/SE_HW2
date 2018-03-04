@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.jumbotron {
+    Height:500px;
+    background-image:url('http://goo.gl/04j7Nn')
+}
+
+.nav a{
+    color: #5a5a5a;
+    font-size: 11px;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    text-transform: uppercase;
+}
+
+.jumbotron {
+    Height:500px;
+    background-image:url('http://goo.gl/04j7Nn')
+}
+
+.jumbotron p{
+    color: #fff;
+    Font-size: 48px;
+    Font-weight: bold;
+    font-family: 'shift' sans-serif;
+}
+.jumbotron p1{
+    color: #fff;
+    font-size: 20px;
+}
+
+.learn-more{
+    background-color: #f7f7f7;
+}
